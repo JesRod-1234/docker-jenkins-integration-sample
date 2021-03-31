@@ -4,3 +4,4 @@ ADD target/docker-jenkins-integration.sample.jar target/docker-jenkins-integrati
 CMD java -jar/docker-jenkins-integration-sample.jar
 
 
+
